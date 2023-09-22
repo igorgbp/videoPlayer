@@ -1,0 +1,21 @@
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\bin\Debug\net6.0-windows\Projeto aula.exe
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\bin\Debug\net6.0-windows\Projeto aula.deps.json
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\bin\Debug\net6.0-windows\Projeto aula.runtimeconfig.json
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\bin\Debug\net6.0-windows\Projeto aula.dll
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\bin\Debug\net6.0-windows\Projeto aula.pdb
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\obj\Debug\net6.0-windows\Projeto aula.csproj.AssemblyReference.cache
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\obj\Debug\net6.0-windows\Projeto aula_MarkupCompile.cache
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\obj\Debug\net6.0-windows\Projeto aula_MarkupCompile.lref
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\obj\Debug\net6.0-windows\Projeto aula.g.resources
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\obj\Debug\net6.0-windows\Projeto aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\obj\Debug\net6.0-windows\Projeto aula.AssemblyInfoInputs.cache
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\obj\Debug\net6.0-windows\Projeto aula.AssemblyInfo.cs
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\obj\Debug\net6.0-windows\Projeto aula.csproj.CoreCompileInputs.cache
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\obj\Debug\net6.0-windows\Projeto aula.dll
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\obj\Debug\net6.0-windows\refint\Projeto aula.dll
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\obj\Debug\net6.0-windows\Projeto aula.pdb
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\obj\Debug\net6.0-windows\Projeto aula.genruntimeconfig.cache
+C:\Users\0041933\source\repos\Projeto aula\Projeto aula\obj\Debug\net6.0-windows\ref\Projeto aula.dll
